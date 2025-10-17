@@ -2,6 +2,12 @@
 
 A computer vision project implementing YOLO (You Only Look Once) for real-time object detection and classification.
 
+For Mac
+yolo predict device=mps model=yolov8n.pt source=0 show=True on terminal.
+
+Windows
+python yolo_detect.py --model my_model.pt --source usb0 --resolution 1280x720 on anaconda terminal.
+
 ## 🚀 Features
 
 - **Real-time Object Detection**: Fast and accurate object detection using YOLOv8
