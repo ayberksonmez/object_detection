@@ -9,7 +9,7 @@ For Live Camera
 
 Mac
 
-yolo predict device=mps model=yolov8n.pt source=0 show=True on terminal.
+yolo predict device=mps model=my_model.pt source=0 show=True on terminal.
 
 
 Windows
@@ -18,7 +18,7 @@ python yolo_detect.py --model my_model.pt --source usb0 --resolution 1280x720 on
 
 ## 🚀 Features
 
-- **Real-time Object Detection**: Fast and accurate object detection using YOLOv8
+- **Real-time Object Detection**: Fast and accurate object detection using YOLOv11
 - **Custom Model Training**: Train models on custom datasets
 - **Video Processing**: Process video files for object detection
 - **Multiple Output Formats**: Support for various image and video formats
