@@ -1,10 +1,16 @@
 # 🎯 Object Detection Project
+![image alt](https://github.com/ayberksonmez/object_detection/blob/main/result4.jpeg?raw=true)
+
+
 
 A computer vision project implementing YOLO (You Only Look Once) for real-time object detection and classification.
 
-For Mac
+For Live Camera
+
+Mac
 
 yolo predict device=mps model=yolov8n.pt source=0 show=True on terminal.
+
 
 Windows
 
