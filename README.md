@@ -12,7 +12,7 @@ A computer vision project implementing YOLO (You Only Look Once) for real-time o
 
 ## 📊 Model Performance
 
-- **Architecture**: YOLOv8 (YOLO version 8)
+- **Architecture**: YOLOv11s but prob works better on 11n didn't try it :((YOLO version 11)
 - **Training Data**: Custom dataset with labeled objects
 - **Validation Accuracy**: High precision and recall rates
 - **Inference Speed**: Optimized for real-time processing
